@@ -1,0 +1,112 @@
+body{
+    background-color: darkgrey;
+    font-family: 'Handlee', cursive;
+}
+.principal{
+    width: 1000px;
+    height: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+}
+.parte1{
+    height: 20px;
+    width: 100%;
+}
+.parte2{
+    height: 60px;
+    width: 850px;
+    margin-left: 150px;
+    background-color: gainsboro
+}
+.parte3{
+    height: 180px;
+    width: 160px;
+    margin-top: -60px;
+    margin-left: 10px;
+}
+.parte4{
+    height: 80px;
+    width: 400px;
+    margin-left: 500px;
+    margin-top: -30px;
+    position: relative;
+}
+.parte5{
+    height: 300px;
+    width: 1000px;
+    margin-top: 50px;
+}
+.parte6{
+    position: relative;
+    height: 200px;
+    width: 200px;
+    margin-left: 750px;
+    margin-top: -30px;
+}
+.parte7{
+    height: 60px;
+    width: 400px;
+    margin-left: 50px;
+    margin-top: -60px;
+}
+/*Senai*/
+.senai1{
+    width: 500px;
+    height: 200px;
+    margin-left: 25px;
+    margin-top: 250px;
+}
+.senai2{
+    width: 400px;
+    height: 600px;
+    margin-left: 600px;
+    margin-top: -570px;
+}
+/*Podcast*/
+.pod1{
+    width: 350px;
+    height: 60px;
+    margin-left: 360px;
+}
+.pod2{
+    width: 350px;
+    height: 60px;
+    margin-left: 360px;
+}
+.pod3{
+    width: 350px;
+    height: 350px;
+    margin-top: 10px;    
+}
+.pod4{
+    width: 600px;
+    height: 400px;
+    margin-left: 360px;
+    margin-top: -350px;
+}
+/*Tabela1*/
+.ta1{
+    width: 300px;
+    height: 300px;
+    margin-left: 700px;
+    margin-top: -120px;
+}
+.ta2{
+    width: 300px;
+    height: 300px;
+    margin-top: -110px;
+    margin-left: 350px;
+}
+.ta3{
+  margin-top: -50px;  
+}
+.taa1{
+    width: 300px;
+    height: 300px;
+    margin-left: 700px;
+    margin-top: -170px;  
+}
+.ta4{
+margin-top: -80px;
+}
